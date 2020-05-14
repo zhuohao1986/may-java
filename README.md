@@ -17,9 +17,9 @@ mvn test
 ```
 5. commit
 6. push
-7. 在tech.taiji.com.cn上宣称完成
+7. 在tech.taiji.com.cn上宣称完成，注明您代码的时间复杂度和空间复杂度
 
-### 欢迎捉虫
+p.s. 欢迎捉虫
 
 
 
