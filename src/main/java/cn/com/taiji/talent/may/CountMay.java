@@ -7,7 +7,7 @@ public class CountMay {
     public int count(int m, int n, ImmutablePair[] traps) {
         //请输入您的代码
 
-
+        
         return 0;
     }
 }

@@ -7,7 +7,20 @@
 4. 每次只能右移或者下移一格
 5. 问总共有多少种走法？
 
-## 链接地址
+## 开发测试
+1. fork
+2. 从您的repository中clone到本地
+3. 写代码
+4. 测试
+```bash
+mvn test
+```
+5. commit
+6. push
+7. 在tech.taiji.com.cn上宣称完成
+
+### 欢迎捉虫
+
 
 
 
