@@ -12,7 +12,6 @@
 2. 从您的repository中clone到本地
 3. 写代码
 4. 测试
-
 ```bash
 mvn test
 ```
